@@ -1,4 +1,4 @@
-# Hi, I'm Rasul 👋
+# Hi, I'm Sunbeam 👋
 
 Full-stack developer at Fakir Apparels Ltd. I build ecommerce, inventory and ERP systems,
 plus free browser tools, with React, Node.js, TypeScript, Python and Oracle.
